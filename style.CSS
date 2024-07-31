@@ -7,7 +7,7 @@ body{
 h1{
     background-color: white;
 }
-@import url("styles/header.css");
+@import url("header.css");
 :root {
     --cor-de-fundo: #EBECEE;
     --branco: #FFFFFF;
@@ -56,4 +56,8 @@ h1{
         color: var(--laranja);
         font-weight: 700;
       }
-      
+
+@import url("header.css");
+@import url("banner.css");
+@import url("carrossel.CSS");
+
