@@ -57,7 +57,7 @@ h1{
         font-weight: 700;
       }
 
-@import url("header.css");
-@import url("banner.css");
-@import url("carrossel.CSS");
+@import url("styles/header.css");
+@import url("styles/banner.CSS");
+@import url("styles/carrossel.CSS");
 
